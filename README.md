@@ -130,6 +130,7 @@ Claude Code plugins are custom collections that can include:
 - **feature-dev** (Anthropic) - Complete feature development workflow
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing
+- **dx** (ykdojo) - Developer experience essentials: GitHub Actions analysis, conversation cloning, context handoffs
 
 ### DevOps & CI/CD
 
