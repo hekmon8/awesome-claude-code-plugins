@@ -154,6 +154,7 @@ Claude Code plugins are custom collections that can include:
 - **task-tracker** - Issue and task management integration
 - **sprint-planner** - Agile sprint planning assistance
 - **standup-helper** - Daily standup report generation
+- **[conductor-orchestrator-superpowers](https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers)** - Multi-agent orchestration with Evaluate-Loop, parallel execution, Board of Directors, 42 skills, 22 commands. One command (`/go`) handles spec, plan, execute, evaluate, and fix.
 
 ### Security
 
