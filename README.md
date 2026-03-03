@@ -137,6 +137,10 @@ Claude Code plugins are custom collections that can include:
 - **docker-helper** - Container workflow automation
 - **k8s-deploy** - Kubernetes deployment assistance
 
+### AI Services & API Gateways
+
+- **[SkillBoss AI Gateway](https://github.com/heeyo-life/skillboss-mcp)** - Unified API gateway for 100+ AI services (Claude, GPT, Gemini, DALL-E, Midjourney, Runway, ElevenLabs). One API key, OpenAI-compatible MCP server
+
 ### Testing & Quality
 
 - **test-generator** - Automated test case generation
