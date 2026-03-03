@@ -139,7 +139,7 @@ Claude Code plugins are custom collections that can include:
 
 ### AI Services & API Gateways
 
-- **[SkillBoss AI Gateway](https://github.com/heeyo-life/skillboss-mcp)** - Unified API gateway for 100+ AI services (Claude, GPT, Gemini, DALL-E, Midjourney, Runway, ElevenLabs). One API key, OpenAI-compatible MCP server
+- **SkillBoss AI Gateway** - Unified API gateway for 100+ AI services (e.g., Claude, GPT, Gemini), offering a single API key and an OpenAI-compatible MCP server.
 
 ### Testing & Quality
 
