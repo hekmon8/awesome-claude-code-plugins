@@ -130,7 +130,7 @@ Claude Code plugins are custom collections that can include:
 - **feature-dev** (Anthropic) - Complete feature development workflow
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing
-- **[ContextDocs](https://github.com/littlebearapps/contextdocs)** - Your AI agent maintains its own context files — AGENTS-first model covering Codex, Copilot, Cursor, Gemini, and 3 more tools
+- **[ContextDocs](https://github.com/littlebearapps/contextdocs)** - Your AI agent maintains its own context files — a Claude Code plugin with an AGENTS-first model that covers Codex, Copilot, Cursor, Gemini, and 3 more tools
 
 ### DevOps & CI/CD
 
