@@ -159,7 +159,7 @@ Claude Code plugins are custom collections that can include:
 ### Social Media & Communication
 
 - **[hermes-tweet](https://github.com/Xquik-dev/hermes-tweet)** - Hermes Agent X/Twitter research, tweet reading, trend checks, and approval-gated social actions
-  - Location: `Xquik-dev/hermes-tweet`
+  - Location: `plugins/hermes-tweet`
   - Features: X/Twitter search, reply reading, trend checks, gated actions
   - Author: Xquik
 
