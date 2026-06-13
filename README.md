@@ -16,6 +16,7 @@
   - [Testing & Quality](#testing--quality)
   - [Documentation](#documentation)
   - [Project Management](#project-management)
+  - [Social Media & Communication](#social-media--communication)
   - [Security](#security)
 - [Creating Plugins](#creating-plugins)
 - [Examples](#examples)
@@ -154,6 +155,13 @@ Claude Code plugins are custom collections that can include:
 - **task-tracker** - Issue and task management integration
 - **sprint-planner** - Agile sprint planning assistance
 - **standup-helper** - Daily standup report generation
+
+### Social Media & Communication
+
+- **[hermes-tweet](https://github.com/Xquik-dev/hermes-tweet)** - Hermes Agent X/Twitter research, tweet reading, trend checks, and approval-gated social actions
+  - Location: `Xquik-dev/hermes-tweet`
+  - Features: X/Twitter search, reply reading, trend checks, gated actions
+  - Author: Xquik
 
 ### Security
 
