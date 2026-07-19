@@ -351,7 +351,7 @@ Contributors will be recognized in:
 Need help contributing?
 
 - 💬 [Discord Community](https://anthropic.com/discord)
-- 💬 [GitHub Discussions](https://github.com/anthropics/claude-code/discussions)
+- 💬 [Claude Code Issues](https://github.com/anthropics/claude-code/issues)
 - 📧 Create an issue with the "question" label
 
 ## Additional Resources

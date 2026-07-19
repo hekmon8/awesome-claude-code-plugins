@@ -113,7 +113,7 @@ Claude Code plugins are custom collections that can include:
   - Security guidance
   - Plugin creation meta-plugin
 
-- **[Dan Ávila's Plugin Marketplace](https://www.aitmpl.com/plugins)** - DevOps, docs, testing
+- **[Dan Ávila's Plugin Marketplace](https://github.com/davila7/claude-code-templates)** - DevOps, docs, testing
   - DevOps automation plugins
   - Documentation generation
   - Project management tools
