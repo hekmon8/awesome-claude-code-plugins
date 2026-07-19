@@ -35,6 +35,31 @@
         "featured": true,
         "type": "marketplace"
       }
+    },
+    {
+      "name": "hermes-tweet",
+      "source": "./plugins/hermes-tweet",
+      "description": "Hermes Agent X/Twitter research, tweet reading, trend checks, and approval-gated social actions",
+      "version": "0.1.8",
+      "author": {
+        "name": "Xquik",
+        "url": "https://github.com/Xquik-dev"
+      },
+      "license": "MIT",
+      "keywords": [
+        "hermes-agent",
+        "xquik",
+        "twitter",
+        "x",
+        "social-media",
+        "automation"
+      ],
+      "strict": false,
+      "metadata": {
+        "category": "Social Media & Communication",
+        "featured": false,
+        "type": "plugin"
+      }
     }
   ]
 }
