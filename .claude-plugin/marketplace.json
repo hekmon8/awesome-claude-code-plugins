@@ -29,11 +29,38 @@
         "collection",
         "curated"
       ],
-      "strict": false,
+      "strict": true,
       "metadata": {
         "category": "Collection",
         "featured": true,
         "type": "marketplace"
+      }
+    },
+    {
+      "name": "tree-ring-memory",
+      "source": "./plugins/tree-ring-memory",
+      "description": "Local-first memory lifecycle guidance for Claude Code using Tree Ring Memory",
+      "version": "0.1.0",
+      "author": {
+        "name": "TerminallyLazy",
+        "url": "https://github.com/TerminallyLazy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "agent-memory",
+        "ai-memory",
+        "local-first",
+        "privacy",
+        "recall",
+        "sqlite",
+        "skills"
+      ],
+      "strict": false,
+      "metadata": {
+        "category": "Development Tools",
+        "featured": false,
+        "type": "plugin"
       }
     }
   ]
