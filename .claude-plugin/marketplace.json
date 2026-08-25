@@ -29,7 +29,7 @@
         "collection",
         "curated"
       ],
-      "strict": false,
+      "strict": true,
       "metadata": {
         "category": "Collection",
         "featured": true,

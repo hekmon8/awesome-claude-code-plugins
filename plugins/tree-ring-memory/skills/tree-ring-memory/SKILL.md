@@ -22,7 +22,7 @@ Tree Ring Memory preserves meaningful agent learning:
 If the current project contains Tree Ring files, read them before using global
 assumptions:
 
-```bash
+```text
 .tree-ring/SKILL.md
 .tree-ring/CLI.md
 ```

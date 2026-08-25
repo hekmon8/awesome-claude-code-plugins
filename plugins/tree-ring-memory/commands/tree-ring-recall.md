@@ -10,10 +10,8 @@ Recall useful project memory before acting on context-dependent work.
 
 1. Check for project-local guidance first:
 
-   ```bash
-   test -f .tree-ring/SKILL.md && sed -n '1,220p' .tree-ring/SKILL.md
-   test -f .tree-ring/CLI.md && sed -n '1,220p' .tree-ring/CLI.md
-   ```
+   Use the `Read` tool to read `.tree-ring/SKILL.md` and `.tree-ring/CLI.md`
+   when those files exist.
 
 2. Use the user's argument as the focused recall query when present:
 
