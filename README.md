@@ -123,6 +123,11 @@ Claude Code plugins are custom collections that can include:
   - Domain-specific development agents
   - Workflow automation
 
+- **[agents_control](https://github.com/saparjohnick/agents_control)** - `saparjohnick/agents_control`
+  - Relays Claude Code's stop/question/permission-request hooks to Telegram with reply buttons
+  - Remote control for the terminal itself: list tabs, view screens, run commands (including interactive ones like `git add -p`) over Telegram
+  - Also installable as a gem: `gem install agents_control`
+
 ## Featured Plugins
 
 ### Development Tools
