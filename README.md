@@ -178,6 +178,10 @@ Claude Code plugins are custom collections that can include:
   - Skills: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)
   - Author: NotFair / nowork-studio
 
+- **[ThreadFox Lite](https://github.com/amflimited/threadfox-lite)** - Claude Code plugin with read-only Reddit research MCP tools (subreddit rules, community search, account standing, post status) and a skill for posting within community rules
+  - Skills: [reddit-rules-first/](https://github.com/amflimited/threadfox-lite/tree/main/skills/reddit-rules-first)
+  - Author: ThreadFox / amflimited
+
 ### Security
 
 - **security-scan** (Anthropic) - Security vulnerability analysis
