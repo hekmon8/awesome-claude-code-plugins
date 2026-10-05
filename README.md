@@ -171,6 +171,9 @@ Claude Code plugins are custom collections that can include:
 - **task-tracker** - Issue and task management integration
 - **sprint-planner** - Agile sprint planning assistance
 - **standup-helper** - Daily standup report generation
+- **[workkit](https://github.com/ITW-Creative-Works/workkit)** - Runs GitHub Issues as a pipeline: an agent crew specs, builds, reviews and ships each issue
+  - Features: triage, spec, build, review and ship skills; guard hooks; scout, worker and verifier agents
+  - Author: ITW Creative Works
 
 ### Marketing & Growth
 
