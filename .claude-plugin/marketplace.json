@@ -15,7 +15,10 @@
   "plugins": [
     {
       "name": "notfair",
-      "source": "https://github.com/nowork-studio/NotFair",
+      "source": {
+        "source": "github",
+        "repo": "nowork-studio/NotFair"
+      },
       "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads \u2014 connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP",
       "version": "latest",
       "author": {
