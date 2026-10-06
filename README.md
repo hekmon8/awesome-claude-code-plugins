@@ -148,6 +148,13 @@ Claude Code plugins are custom collections that can include:
 - **docker-helper** - Container workflow automation
 - **k8s-deploy** - Kubernetes deployment assistance
 
+- **shipvela** - Owner-confirmed website publishing through the Shipvela OAuth MCP connector
+  - Location: `plugins/shipvela`
+  - Features: OAuth, compatibility checks, publishing confirmation, deployment status and live HTTPS URLs
+  - Author: Content Petit LLC
+  - Source marketplace: [stefanautomateed/shipvela-codex](https://github.com/stefanautomateed/shipvela-codex)
+  - Requires a Shipvela account; Hobby has 3 projects and 20 monthly publishes.
+
 ### Testing & Quality
 
 - **test-generator** - Automated test case generation

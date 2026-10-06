@@ -16,7 +16,7 @@
     {
       "name": "notfair",
       "source": "https://github.com/nowork-studio/NotFair",
-      "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP",
+      "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads \u2014 connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP",
       "version": "latest",
       "author": {
         "name": "nowork-studio",
@@ -73,10 +73,42 @@
       "homepage": "https://github.com/cpj-dev/dsh-plugin-cc",
       "repository": "https://github.com/cpj-dev/dsh-plugin-cc",
       "license": "MIT",
-      "keywords": ["deepseek", "dsh", "code-review", "delegation", "bridge"],
+      "keywords": [
+        "deepseek",
+        "dsh",
+        "code-review",
+        "delegation",
+        "bridge"
+      ],
       "strict": false,
       "metadata": {
         "category": "Testing & Quality",
+        "featured": false,
+        "type": "plugin"
+      }
+    },
+    {
+      "name": "shipvela",
+      "source": "./plugins/shipvela",
+      "description": "Owner-confirmed website publishing through the Shipvela OAuth MCP connector",
+      "version": "0.2.0",
+      "author": {
+        "name": "Content Petit LLC",
+        "email": "hello@shipvela.com",
+        "url": "https://shipvela.com"
+      },
+      "homepage": "https://shipvela.com/integrations/claude",
+      "repository": "https://github.com/stefanautomateed/shipvela-codex",
+      "license": "MIT",
+      "keywords": [
+        "hosting",
+        "deployment",
+        "websites",
+        "mcp"
+      ],
+      "strict": false,
+      "metadata": {
+        "category": "DevOps & CI/CD",
         "featured": false,
         "type": "plugin"
       }
