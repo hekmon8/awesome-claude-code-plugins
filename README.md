@@ -132,7 +132,7 @@ Claude Code plugins are custom collections that can include:
 - **[Nibbl](https://github.com/nuromirzak/nibbl)** - `nuromirzak/nibbl`
   - nibbl: a tamagotchi-style pixel pet mod in a band above the prompt, built on function hooks
   - Reacts to tool calls, passing checks and commits; `/nibbl` command; zero model tokens
-  - MIT; sends only event types and times plus a hashed machine id to getnibbl.pages.dev
+  - MIT; sends event types/times, a hashed machine ID, pet serial/token, and optional name/label to getnibbl.pages.dev by default
 
 ## Featured Plugins
 
