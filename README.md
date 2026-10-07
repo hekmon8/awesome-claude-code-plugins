@@ -189,6 +189,7 @@ Claude Code plugins are custom collections that can include:
 - **security-scan** (Anthropic) - Security vulnerability analysis
 - **dependency-audit** - Dependency security checking
 - **secrets-detector** - Find exposed secrets in code
+- **[gedik](https://github.com/onur-kesim/gedik)** - Security audits with PoCs and product-code mutation checks in a scratch copy; no target edits.
 
 ## Creating Plugins
 
