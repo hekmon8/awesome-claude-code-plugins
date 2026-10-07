@@ -113,6 +113,12 @@ Claude Code plugins are custom collections that can include:
   - Security guidance
   - Plugin creation meta-plugin
 
+- **[Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin)** - Agent-native backend services with no-signup setup through a bundled MCP server and skill.
+  - Plugin bundles the Cohesivity skill, local project MCP, and remote management MCP
+  - Local setup needs Node 18+ and POSIX Bash; remote MCP supports public setup and tenant-key management, with optional account OAuth
+  - Local bootstrap runs a hosted quickstart and changes project/user configuration; remote creation returns credentials in tool results; feedback can be sent without per-call approval
+  - Install: `claude plugin marketplace add cohesivity-org/cohesivity-plugin`, then `claude plugin install cohesivity@cohesivity`
+
 - **[Dan Ávila's Plugin Marketplace](https://www.aitmpl.com/plugins)** - DevOps, docs, testing
   - DevOps automation plugins
   - Documentation generation
