@@ -129,6 +129,11 @@ Claude Code plugins are custom collections that can include:
   - Recovers the highlights Amazon's export limit truncates or hides
   - macOS only; MIT; proven on four real books (2,432 highlights, 815 export-blocked, all recovered)
 
+- **[Nibbl](https://github.com/nuromirzak/nibbl)** - `nuromirzak/nibbl`
+  - nibbl: a tamagotchi-style pixel pet mod in a band above the prompt, built on function hooks
+  - Reacts to tool calls, passing checks and commits; `/nibbl` command; zero model tokens
+  - MIT; sends event types/times, a hashed machine ID, pet serial/token, and optional name/label to getnibbl.pages.dev by default
+
 ## Featured Plugins
 
 ### Marketing Growth
