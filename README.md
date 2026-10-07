@@ -174,6 +174,9 @@ Claude Code plugins are custom collections that can include:
 
 ### Marketing & Growth
 
+- **[BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp)** - Real-time SEA product search and price comparison MCP for shopping agents
+  - Remote: https://api.buywhere.ai/mcp · Docs: https://github.com/BuyWhere/buywhere-mcp#quick-start · `npx -y @buywhere/mcp-server` (requires `BUYWHERE_API_KEY`)
+  - Author: BuyWhere
 - **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
   - Skills: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)
   - Author: NotFair / nowork-studio
