@@ -194,6 +194,9 @@ Claude Code plugins are custom collections that can include:
 - **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
   - Skills: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)
   - Author: NotFair / nowork-studio
+- **[looot](https://github.com/loootai/looot-plugin)** - Claude Code plugin and remote MCP server for work email, phone, company and people enrichment, Google results and web page reading from one prepaid balance
+  - Remote: https://api.looot.ai/mcp · Docs: https://docs.looot.ai · Paid, prepaid from $5 (sign in with OAuth or use a Bearer key)
+  - Author: looot
 
 ### Security
 
