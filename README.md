@@ -152,6 +152,9 @@ Claude Code plugins are custom collections that can include:
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing
 - **[claude-interactive](https://github.com/ahostbr/claude-interactive)** - Human-in-the-loop result filtering for search operations
+- **[Aident Loadout](https://aident.ai)** - Gives Claude Code (and Codex, Cursor, ChatGPT) 1,000+ apps and 400+ expert-built Skills through one reusable setup; credentials stay in Aident Vault and every action is logged in Audit
+  - Remote: https://loadout.aident.ai/mcp · `claude mcp add --transport http aident https://loadout.aident.ai/mcp` · Skills: [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)
+  - Author: Aident AI
 
 ### DevOps & CI/CD
 
