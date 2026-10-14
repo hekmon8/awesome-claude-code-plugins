@@ -14,6 +14,24 @@
   },
   "plugins": [
     {
+      "name": "agents-core",
+      "source": "./plugins/agents-core",
+      "description": "Specialist personas, workflows and repository memory. Requires a separately installed local server.",
+      "author": {
+        "name": "WonderMr",
+        "url": "https://github.com/IEZhu"
+      },
+      "homepage": "https://github.com/IEZhu/Agents/tree/main/plugins/agents-core",
+      "repository": "https://github.com/IEZhu/Agents",
+      "license": "MIT",
+      "keywords": ["personas", "agents", "workflows", "repository-memory", "mcp"],
+      "metadata": {
+        "category": "Development Tools",
+        "featured": false,
+        "type": "plugin"
+      }
+    },
+    {
       "name": "notfair",
       "source": "https://github.com/nowork-studio/NotFair",
       "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP",

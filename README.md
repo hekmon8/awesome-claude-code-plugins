@@ -148,6 +148,12 @@ Claude Code plugins are custom collections that can include:
 
 ### Development Tools
 
+- **agents-core** - Specialist personas, workflows, subagent contracts and repository memory via a local MCP server
+  - Location: `plugins/agents-core`
+  - Features: Persona routing, reusable Markdown workflows, scoped subagent preparation and result validation, searchable repository memory
+  - Author: WonderMr / [IEZhu](https://github.com/IEZhu)
+  - Requirements: Separately installed Agents-Core server, Python 3.11+, macOS or Linux; the plugin is a launcher and executes the installed server outside its folder
+  - Source: [IEZhu/Agents](https://github.com/IEZhu/Agents/tree/main/plugins/agents-core)
 - **feature-dev** (Anthropic) - Complete feature development workflow
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing
