@@ -152,6 +152,10 @@ Claude Code plugins are custom collections that can include:
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing
 - **[claude-interactive](https://github.com/ahostbr/claude-interactive)** - Human-in-the-loop result filtering for search operations
+- **[subagent-tuner](https://github.com/Kruhlikau/subagent-tuner)** - Choose the model and reasoning effort of every Claude Code subagent
+  - Manual mode asks before each subagent starts; Auto applies a saved default over what the agent requested
+  - Recommends by task kind (review on Opus, search on Haiku); `claude -p`, SDK runs and forks are left untouched; no network calls
+  - Install: `/plugin install subagent-tuner --marketplace Kruhlikau/subagent-tuner`
 
 ### DevOps & CI/CD
 
