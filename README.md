@@ -194,6 +194,10 @@ Claude Code plugins are custom collections that can include:
 - **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
   - Skills: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)
   - Author: NotFair / nowork-studio
+- **[PageToVid](https://github.com/PageToVid/claude-plugins)** - Turn any web page into a narrated MP4 video with AI voice-over and captions
+  - Features: `/video`, `/animate`, `/edit`, `/howto`, `/show`; remote MCP at https://pagetovid.com/mcp (OAuth 2.1); captions in 13 languages; 16:9, 9:16, 1:1, 4:5
+  - Install: `/plugin marketplace add PageToVid/claude-plugins`, then `/plugin install pagetovid@pagetovid`
+  - Author: PageToVid
 
 ### Security
 
