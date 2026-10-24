@@ -140,6 +140,12 @@ Claude Code plugins are custom collections that can include:
   - Reacts to tool calls, passing checks and commits; `/nibbl` command; zero model tokens
   - MIT; sends event types/times, a hashed machine ID, pet serial/token, and optional name/label to getnibbl.pages.dev by default
 
+- **[installed-api](https://github.com/ajwann/installed-api)** - `ajwann/installed-api`
+  - installed-api: MCP tools that answer API questions from the packages installed in the project instead of model memory
+  - Python signatures, docstrings and source from the project's interpreter; TypeScript declarations from node_modules; installed versions
+  - Python 3.11+ standard library only; offline and read-only; MIT
+  - Install: `/plugin install installed-api --marketplace ajwann/installed-api`
+
 ## Featured Plugins
 
 ### Marketing Growth
