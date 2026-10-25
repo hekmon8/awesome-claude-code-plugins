@@ -194,6 +194,10 @@ Claude Code plugins are custom collections that can include:
 - **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
   - Skills: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)
   - Author: NotFair / nowork-studio
+- **[Social Cue](https://github.com/mrieck/socialcue-claude-plugin)** - Social media marketing from Claude Code: drives a dedicated Chrome profile to find Reddit, Hacker News and X threads worth joining, scores them against your product and drafts replies in your voice for review in a local dashboard
+  - Install: `/plugin marketplace add mrieck/claude-plugins` then `/plugin install socialcue@productive-mark` · Commands: `/socialcue-setup`, `/socialdiscovery`
+  - Website: https://trysocialcue.com/?utm_source=awesome-claude-code-plugins&utm_medium=directory · Free plugin, optional Pro ($19/mo); source-available (PolyForm Shield)
+  - Author: Mark Rieck
 
 ### Security
 
