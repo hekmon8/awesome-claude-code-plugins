@@ -148,6 +148,10 @@ Claude Code plugins are custom collections that can include:
 
 ### Development Tools
 
+- **[Agent Notifications](https://github.com/777genius/agent-notifications)** - Desktop alerts for task completion and input requests, with sounds, click-to-focus, and webhooks
+  - Install: `/plugin install claude-notifications-go@awesome-claude-code-plugins`
+  - Author: [777genius](https://github.com/777genius)
+
 - **feature-dev** (Anthropic) - Complete feature development workflow
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing

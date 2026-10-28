@@ -14,6 +14,28 @@
   },
   "plugins": [
     {
+      "name": "claude-notifications-go",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/777genius/agent-notifications.git",
+        "sha": "0faedcd0b030b5a2d868b25fdbea7ef4535a2ca2"
+      },
+      "description": "Desktop notifications for Claude Code task completion and requests for input, with sounds, click-to-focus, and optional webhooks.",
+      "version": "1.49.11",
+      "author": {
+        "name": "777genius",
+        "email": "iliyazelenkog@gmail.com"
+      },
+      "homepage": "https://github.com/777genius/agent-notifications",
+      "license": "GPL-3.0",
+      "keywords": [
+        "notifications",
+        "productivity",
+        "hooks"
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "notfair",
       "source": "https://github.com/nowork-studio/NotFair",
       "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP",
