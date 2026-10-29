@@ -119,6 +119,13 @@ Claude Code plugins are custom collections that can include:
   - Local bootstrap runs a hosted quickstart and changes project/user configuration; remote creation returns credentials in tool results; feedback can be sent without per-call approval
   - Install: `claude plugin marketplace add cohesivity-org/cohesivity-plugin`, then `claude plugin install cohesivity@cohesivity`
 
+- **[Firecrawl](https://github.com/firecrawl/firecrawl-claude-plugin)** - Web search, page reading, and structured data for AI agents through Firecrawl's hosted MCP server.
+  - Searches the web, developer documentation and code repositories, government publications, and scientific papers, reads the pages it finds as Markdown, and looks up Firecrawl Alexandria data providers
+  - Skills for deep research, library docs, SEO audits, lead discovery and enrichment, business contacts, and job postings, plus `/firecrawl:search`, `/firecrawl:scrape`, `/firecrawl:crawl` and `/firecrawl:agent` commands
+  - Connect a Firecrawl account with `/mcp` after installing
+  - Install: `/plugin marketplace add firecrawl/firecrawl-claude-plugin`, then `/plugin install firecrawl@firecrawl`
+  - Website: [firecrawl.dev](https://www.firecrawl.dev/?utm_source=hekmon8-awesome-claude-code-plugins&utm_medium=integration)
+
 - **[Dan Ávila's Plugin Marketplace](https://www.aitmpl.com/plugins)** - DevOps, docs, testing
   - DevOps automation plugins
   - Documentation generation
