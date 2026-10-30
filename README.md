@@ -152,6 +152,9 @@ Claude Code plugins are custom collections that can include:
 - **code-review** (Anthropic) - Automated code review with best practices
 - **refactor-assistant** - Safe refactoring with automated testing
 - **[claude-interactive](https://github.com/ahostbr/claude-interactive)** - Human-in-the-loop result filtering for search operations
+- **[CurlShot](https://github.com/SergiuPogor/curlshot-mcp)** - Website screenshots (PNG, JPEG, WebP, PDF or scrolling video) from Claude Code: hosted MCP server plus an agent skill for the CurlShot HTTP API
+  - Install: `/plugin marketplace add SergiuPogor/curlshot-mcp`, then `/plugin install curlshot@curlshot` (requires `CURLSHOT_API_KEY`; free plan: 100 screenshots/month, no card) · Remote: https://curlshot.com/api/mcp
+  - Author: CurlShot
 
 ### DevOps & CI/CD
 
