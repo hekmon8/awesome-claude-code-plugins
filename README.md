@@ -140,6 +140,12 @@ Claude Code plugins are custom collections that can include:
   - Reacts to tool calls, passing checks and commits; `/nibbl` command; zero model tokens
   - MIT; sends event types/times, a hashed machine ID, pet serial/token, and optional name/label to getnibbl.pages.dev by default
 
+- **[Legwise](https://github.com/zhanggangyi1224/legwise)** - `zhanggangyi1224/legwise`
+  - road-trip-planner: plan, check and repair multi-day road trips, starting with multiple-choice questions
+  - OpenStreetMap road distances; a deterministic Python checker for sunset, fuel range, opening hours, check-in times and bookings; PDF, HTML or Markdown reports
+  - MIT; scripts send only place names and coordinates to Nominatim and OSRM; never books or pays
+  - Install: `claude plugin marketplace add zhanggangyi1224/legwise`, then `claude plugin install legwise@legwise`
+
 ## Featured Plugins
 
 ### Marketing Growth
