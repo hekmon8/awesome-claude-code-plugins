@@ -140,6 +140,12 @@ Claude Code plugins are custom collections that can include:
   - Reacts to tool calls, passing checks and commits; `/nibbl` command; zero model tokens
   - MIT; sends event types/times, a hashed machine ID, pet serial/token, and optional name/label to getnibbl.pages.dev by default
 
+- **[spm](https://github.com/eyvant/spm)** - `eyvant/spm`
+  - spm: run dev servers, workers, bots and scheduled jobs as persistent native services (systemd user units, macOS LaunchAgents, Windows services) instead of `&`/`nohup` shells that die with the session
+  - Bundles a skill that tells Claude when to reach for spm, plus the local `spm mcp` server (12 tools to create, start, stop, inspect and read logs of services)
+  - Needs the `spm` binary on `PATH` (single Go binary for Linux, macOS and Windows); MIT; runs locally, no telemetry
+  - Install: `claude plugin marketplace add eyvant/spm`, then `claude plugin install spm@eyvant-spm`
+
 ## Featured Plugins
 
 ### Marketing Growth
